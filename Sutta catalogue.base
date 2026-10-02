@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.inFolder("Sutta texts")
+    - file.ext == "md"
+formulas:
+  reference: file.asLink(sutta_id)
+  sutta: file.asLink(sutta_id + " — " + english_title)
+properties:
+  formula.reference:
+    displayName: ID
+  formula.sutta:
+    displayName: Sutta
+  note.english_title:
+    displayName: English title
+  note.pali_title:
+    displayName: Pāli title
+  note.contribution:
+    displayName: What it contributes
+  note.practices:
+    displayName: Practices
+views:
+  - type: table
+    name: All suttas
+    order:
+      - formula.sutta
+      - pali_title
+      - contribution
+      - practices
+    rowHeight: tall
+    columnSize:
+      note.pali_title: 193
+  - type: table
+    name: Names
+    order:
+      - formula.reference
+      - english_title
+      - pali_title
+    rowHeight: medium

@@ -1,0 +1,15 @@
+# Local backups and deleted notes
+/Archive/
+/.trash/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Share only the reusable Obsidian graph setup and reading style.
+/.obsidian/*
+!/.obsidian/graph.json
+!/.obsidian/bookmarks.json
+!/.obsidian/snippets/
+/.obsidian/snippets/*
+!/.obsidian/snippets/sutta-library.css

@@ -1,0 +1,151 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1790864342350,
+      "title": "Practice overview",
+      "options": {
+        "collapse-filter": true,
+        "search": "(path:\"Practices/\" OR path:\"Sutta texts/\") -file:\"SN 18.\"",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"Practices/\"",
+            "color": {
+              "a": 1,
+              "rgb": 4562314
+            }
+          },
+          {
+            "query": "path:\"Sutta texts/\" -file:\"SN 18.\"",
+            "color": {
+              "a": 1,
+              "rgb": 12951900
+            }
+          },
+          {
+            "query": "path:\"Sutta texts/\" file:\"SN 18.\"",
+            "color": {
+              "a": 1,
+              "rgb": 6857434
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.25,
+        "repelStrength": 12,
+        "linkStrength": 0.45,
+        "linkDistance": 220,
+        "scale": 0.6,
+        "close": true
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1790864293927,
+      "title": "All suttas",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"Practices/\" OR path:\"Sutta texts/\"",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"Practices/\"",
+            "color": {
+              "a": 1,
+              "rgb": 4562314
+            }
+          },
+          {
+            "query": "path:\"Sutta texts/\" -file:\"SN 18.\"",
+            "color": {
+              "a": 1,
+              "rgb": 12951900
+            }
+          },
+          {
+            "query": "path:\"Sutta texts/\" file:\"SN 18.\"",
+            "color": {
+              "a": 1,
+              "rgb": 6857434
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.25,
+        "repelStrength": 12,
+        "linkStrength": 0.45,
+        "linkDistance": 220,
+        "scale": 0.47377739509781047,
+        "close": true
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1790864555282,
+      "title": "SN 18 framework",
+      "options": {
+        "collapse-filter": true,
+        "search": "(path:\"Sutta texts/\" file:\"SN 18.\") OR file:\"Insight framework (SN 18)\"",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"Practices/\"",
+            "color": {
+              "a": 1,
+              "rgb": 4562314
+            }
+          },
+          {
+            "query": "path:\"Sutta texts/\" -file:\"SN 18.\"",
+            "color": {
+              "a": 1,
+              "rgb": 12951900
+            }
+          },
+          {
+            "query": "path:\"Sutta texts/\" file:\"SN 18.\"",
+            "color": {
+              "a": 1,
+              "rgb": 6857434
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.25,
+        "repelStrength": 12,
+        "linkStrength": 0.45,
+        "linkDistance": 220,
+        "scale": 0.7,
+        "close": true
+      }
+    }
+  ]
+}

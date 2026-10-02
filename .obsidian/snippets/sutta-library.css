@@ -1,0 +1,15 @@
+/* Wider reading area for the practice library and its embedded catalogue. */
+.markdown-preview-view.sutta-library,
+.markdown-source-view.mod-cm6.sutta-library {
+  --file-line-width: 1160px;
+}
+.markdown-preview-view.sutta-library .markdown-preview-sizer {
+  max-width: 1160px;
+}
+/* The index's only property is the layout class; keep the home page uncluttered. */
+.markdown-preview-view.sutta-library .metadata-container {
+  display: none;
+}
+
+/* The home page already has its own descriptive heading. */
+.markdown-preview-view.sutta-library .inline-title { display: none; }
