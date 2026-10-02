@@ -9,9 +9,9 @@ cssclasses:
 
 Begin with what you are learning to cultivate, recognize, or understand. Follow the sutta links to explore each teaching in its original context.
 
-[[#The four brahmavihāras|Brahmavihāras]] · [[#The five faculties|Faculties]] · [[#The five hindrances|Hindrances]] · [[#The five aggregates|Aggregates]] · [[#The elements|Elements]]
+[[#The four brahmavihāras|Brahmavihāras]] · [[#The five faculties|Faculties]] · [[#The five hindrances|Hindrances]] · [[#The five aggregates|Aggregates]] · [[#The elements|Elements]] · [[#Dependent origination|Dependent origination]]
 
-**An individual teaching in more depth:** [[#Equanimity — Upekkhā|Equanimity — Upekkhā]]
+**Individual teachings in more depth:** [[#Equanimity — Upekkhā|Equanimity — Upekkhā]] · [[Practices/Energy (Viriya)|Energy — Viriya]]
 
 The short explanations and practice reminders below are working summaries. All linked sutta translations are Bhikkhu Sujato’s; direct quotations are marked separately.
 
@@ -59,6 +59,8 @@ Continue through [[Practices/Mettā and the brahmavihāras|Mettā and the brahma
 - [SN 48.10 — Analysis (2nd)](https://suttacentral.net/sn48.10/en/sujato) — Defines each faculty and connects it with concrete training. *Online reference; not yet in the collection.*
 - [[Sutta texts/MN 118#Text|MN 118 — Mindfulness of Breathing]] — A sustained practice in which mindfulness develops through investigation, energy, and the other awakening factors.
 
+**Energy in practice:** [[Practices/Energy (Viriya)|Energy — Viriya]] connects this faculty with working through dullness and learning balanced effort. [[Sutta texts/AN 6.55#^balanced-energy|AN 6.55 — With Soṇa]] illustrates the balance of energy and serenity.
+
 ## The five hindrances
 
 *Pañca nīvaraṇāni · Obstructions to recognize and release*
@@ -81,7 +83,7 @@ Continue through [[Practices/Mettā and the brahmavihāras|Mettā and the brahma
 - [[Sutta texts/MN 19#Text|MN 19 — Two Kinds of Thought]] — Recognize thoughts by their consequences and understand how repeated thinking inclines the mind.
 - [[Sutta texts/MN 20#Text|MN 20 — How to Stop Thinking]] — Five approaches for dealing with persistent unskillful thoughts.
 
-Continue through [[Practices/Abandoning unskillful thoughts|Abandoning unskillful thoughts]].
+Continue through [[Practices/Abandoning unskillful thoughts|Abandoning unskillful thoughts]] and [[Practices/Energy (Viriya)|Energy — Viriya]]. [[Sutta texts/SN 46.51#Text|SN 46.51 — Nourishing]] explains what feeds or weakens all five hindrances and the seven awakening factors.
 
 ## The five aggregates
 
@@ -132,6 +134,26 @@ Continue through [[Practices/Element contemplation|Element contemplation]].
 
 ---
 
+## Dependent origination
+
+*Paṭiccasamuppāda · Understanding conditions and cessation*
+
+**Purpose:** Understand the conditions through which suffering develops and ceases, and how supporting conditions allow the path to unfold.
+
+The twelve links are **ignorance → choices → consciousness → name and form → six sense fields → contact → feeling → craving → grasping → continued existence → rebirth → old age and death**. [[Practices/Dependent origination|Dependent origination]] gives English and Pāli terms, condensed definitions, and the cessation sequence.
+
+**Practice reminder:** Recognize contact and feeling, observe the movement toward craving and grasping, and understand what supports relinquishing these tendencies.
+
+**Read with a purpose**
+
+- [[Sutta texts/SN 12.2#Text|SN 12.2 — Analysis]] — The definitions of the twelve links and their arising and cessation.
+- [[Sutta texts/SN 12.15#Text|SN 12.15 — Kaccānagotta]] — Right view through conditional arising and cessation, relinquishing fixation on “my self”.
+- [[Sutta texts/SN 12.23#Text|SN 12.23 — Vital Conditions]] — The conditions for faith, joy, tranquility, immersion, and freedom.
+
+Continue through [[Practices/Dependent origination|Dependent origination]], with [[Sutta texts/MN 38#Text|MN 38 — The Longer Discourse on the Ending of Craving]] and [[Sutta texts/MN 148#Text|MN 148 — Six By Six]] already supplying further connections to consciousness, feeling, and craving.
+
+---
+
 ## Equanimity — Upekkhā
 
 *Worked example of an individual teaching note*
@@ -170,6 +192,8 @@ The passage concerns a mind established in samādhi. The reflection about relati
 - **When meditation is settled:** Stay attentive to the settled mind. Notice whether additional adjustment is actually needed.
 
 Equanimity can be cultivated along the way and deepen as the heart and mind develop. It is the fourth brahmavihāra and the seventh awakening factor; these positions do not mean that practice must wait until everything preceding it is perfected.
+
+**Recognizing the right occasion:** [[Sutta texts/SN 46.53#Text|SN 46.53 — Fire]] recommends equanimity, tranquility, and immersion for a restless mind, and investigation, energy, and rapture for a sluggish one. Continue through [[Practices/Energy (Viriya)|Energy — Viriya]] to explore this balance.
 
 ### A further image
 

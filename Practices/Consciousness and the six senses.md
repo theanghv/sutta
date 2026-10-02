@@ -16,6 +16,9 @@ Examining the knowing of experience itself: how consciousness arises dependent o
 
 - [[Sutta texts/MN 140#^element-analysis|MN 140 — The Analysis of the Elements]] — Includes consciousness in the six-element analysis and continues through feeling, equanimity, and relinquishing grasping.
 
+- [[Sutta texts/SN 12.2#^twelve-links|SN 12.2 — Analysis]] — Defines consciousness and its place among name and form, the senses, contact, feeling, and the other links of dependent origination.
+
+
 ## The six kinds of consciousness
 
 The sense faculty and object are conditions for the corresponding consciousness. They do not turn into consciousness. [[Sutta texts/MN 38#^conditioned-consciousness|MN 38 — The Longer Discourse on the Ending of Craving]] and [[Sutta texts/MN 148#^six-kinds-of-consciousness|MN 148 — Six By Six]] name the six kinds:

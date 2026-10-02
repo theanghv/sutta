@@ -15,4 +15,6 @@ The four domains of mindfulness: body, feelings, mind, and principles. These dis
 
 - [[Sutta texts/MN 44#^immersion|MN 44 — The Shorter Elaboration]] — Defines immersion as unification of mind, names the four kinds of mindfulness meditation as its bases, and the four right efforts as its prerequisites.
 
+- [[Sutta texts/SN 46.51#Text|SN 46.51 — Nourishing]] — Explains the conditions that nourish or weaken the five hindrances and seven awakening factors recognized in MN 10.
+
 [[Suttas|← Sutta collection]]

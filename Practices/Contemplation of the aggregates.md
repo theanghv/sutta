@@ -33,4 +33,6 @@ Examining form, feeling, perception, choices or volitional formations, and consc
 
 - [[Sutta texts/SN 18.22#Text|SN 18.22 — Rid of Conceit]] — Connects seeing the aggregates as not-self with the heart’s freedom through not grasping.
 
+- [[Sutta texts/SN 12.15#^right-view-and-self|SN 12.15 — Kaccānagotta]] — Connects right view and relinquishing fixation on “my self” with understanding the conditional arising and cessation of suffering.
+
 [[Suttas|← Sutta collection]]

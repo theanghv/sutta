@@ -17,11 +17,12 @@ Recognizing and abandoning unskillful thinking and the mental qualities that sus
 
 - [[Sutta texts/MN 20#^five-methods|MN 20 — How to Stop Thinking]] — Gives five successive methods to use when unskillful thoughts persist: attend to a skillful subject, examine the drawbacks, forget and ignore, stop their formation, and finally apply forceful restraint.
 
-## Still to consider
+## Supporting energy and balance
 
-- [SN 46.51 — Nourishing](https://suttacentral.net/sn46.51/en/sujato): what feeds or deprives the hindrances and awakening factors of nourishment.
-- [SN 46.53 — Fire](https://suttacentral.net/sn46.53/en/sujato): which awakening factors to develop when the mind is sluggish or restless.
+- [[Sutta texts/SN 46.51#Text|SN 46.51 — Nourishing]] — What feeds or weakens the hindrances and awakening factors.
 
-These remain suggestions; their full texts are not in the collection.
+- [[Sutta texts/SN 46.53#Text|SN 46.53 — Fire]] — Which awakening factors suit a sluggish or restless mind.
+
+Continue through [[Practices/Energy (Viriya)|Energy — Viriya]] for dullness, drowsiness, and balanced effort.
 
 [[Suttas|← Sutta collection]]

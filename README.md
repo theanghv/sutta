@@ -4,10 +4,12 @@ A collection for deepening Buddhist practice, organized around the qualities to 
 
 ## Start here
 
-- **[Practice teachings — draft](Practice%20teachings%20%E2%80%94%20draft.md):** the four brahmavihāras, five faculties, five hindrances, five aggregates, and elements. Each group has English and Pāli terms, a practical explanation, reminders, and related discourses. A worked **Equanimity — Upekkhā** example explores relationships and meditation.
+- **[Practice teachings — draft](Practice%20teachings%20%E2%80%94%20draft.md):** the four brahmavihāras, five faculties, five hindrances, five aggregates, elements, and dependent origination. Each group has English and Pāli terms, a practical explanation, reminders, and related discourses. A worked **Equanimity — Upekkhā** example explores relationships and meditation.
 - **[Sutta practice library](Suttas.md):** choose a practice, follow a reading route, or find a discourse in the catalogue.
-- **[Practice guides](Practices/):** twelve guides explaining what each linked discourse contributes to practice.
-- **[Source texts](Sutta%20texts/):** 47 discourses in 39 notes. SuttaCentral presents SN 18.12–20 together, so those nine discourses share one note.
+- **[Practice guides](Practices/):** fourteen guides explaining what each linked discourse contributes to practice.
+- **[Dependent origination](Practices/Dependent%20origination.md):** the twelve links, arising and cessation, and the conditions supporting freedom.
+- **[Energy — Viriya](Practices/Energy%20%28Viriya%29.md):** working with dullness and sleepiness, choosing awakening factors, and developing balanced effort.
+- **[Source texts](Sutta%20texts/):** 54 discourses in 46 notes. SuttaCentral presents SN 18.12–20 together, so those nine discourses share one note.
 
 The teaching page is a draft for developing the collection’s structure. Its short explanations and reflections are editorial notes; quotations and attributed translator’s notes are identified separately.
 
@@ -34,7 +36,7 @@ The notes use Obsidian wikilinks, section links, block references, and Base embe
 Practice teachings — draft.md   Teaching groups and an Equanimity example
 Suttas.md                      Practice index and reading routes
 Sutta catalogue.base           Searchable catalogue
-Practices/                     Twelve practice guides
+Practices/                     Fourteen practice guides
 Sutta texts/                   Sujato translations and attributed notes
 .obsidian/                     Saved graph views and optional reading styles
 ```

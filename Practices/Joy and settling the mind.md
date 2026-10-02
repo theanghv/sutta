@@ -10,6 +10,11 @@ Two connected topics: rejoicing as one of the brahmavihāras, and the joy, raptu
 
 - [[Sutta texts/DN 13#^brahmaviharas|DN 13 — Experts in the Three Vedas]] — Gives the practice of spreading a heart full of rejoicing abundantly and without limit, alongside love, compassion, and equanimity.
 
+- [[Sutta texts/SN 12.23#^conditions-for-suffering-and-freedom|SN 12.23 — Vital Conditions]] — Connects suffering with the conditions for faith, joy, rapture, tranquility, bliss, immersion, and freedom.
+
+- [[Sutta texts/SN 46.53#^energizing-a-sluggish-mind|SN 46.53 — Fire]] — Shows when rapture helps energize a sluggish mind, and when tranquility, immersion, and equanimity help settle a restless one.
+
+
 ## Rejoicing and rapture
 
 The rejoicing in [[Sutta texts/MN 62#Text|MN 62 — The Longer Advice to Rāhula]] and [[Sutta texts/DN 13#Text|DN 13 — Experts in the Three Vedas]] is *muditā*, one of the four brahmavihāras. The rapture in [[Sutta texts/MN 118#Text|MN 118 — Mindfulness of Breathing]] is *pīti*. [[Sutta texts/AN 11.2#Text|AN 11.2 — Making a Wish]] distinguishes joy and rapture within a sequence leading toward tranquility and immersion. These passages contribute different parts of understanding and cultivating gladness.
