@@ -14,6 +14,8 @@ Two connected topics: rejoicing as one of the brahmavihāras, and the joy, raptu
 
 - [[Sutta texts/SN 46.53#^energizing-a-sluggish-mind|SN 46.53 — Fire]] — Shows when rapture helps energize a sluggish mind, and when tranquility, immersion, and equanimity help settle a restless one.
 
+- [[Sutta texts/MN 111#^discernment-one-by-one|MN 111 — One by One]] — Follows the four absorptions and formless attainments, distinguishing rapture, bliss, equanimity, mindfulness, and other phenomena while recognizing their passing.
+
 
 ## Rejoicing and rapture
 

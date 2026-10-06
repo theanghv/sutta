@@ -17,4 +17,6 @@ The four domains of mindfulness: body, feelings, mind, and principles. These dis
 
 - [[Sutta texts/SN 46.51#Text|SN 46.51 — Nourishing]] — Explains the conditions that nourish or weaken the five hindrances and seven awakening factors recognized in MN 10.
 
+- [[Sutta texts/MN 111#^discernment-one-by-one|MN 111 — One by One]] — Describes Sāriputta discerning phenomena one by one in meditative attainments, knowing their arising, remaining, and passing. The later attainments are reviewed after emerging.
+
 [[Suttas|← Sutta collection]]

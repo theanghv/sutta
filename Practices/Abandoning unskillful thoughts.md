@@ -17,6 +17,9 @@ Recognizing and abandoning unskillful thinking and the mental qualities that sus
 
 - [[Sutta texts/MN 20#^five-methods|MN 20 — How to Stop Thinking]] — Gives five successive methods to use when unskillful thoughts persist: attend to a skillful subject, examine the drawbacks, forget and ignore, stop their formation, and finally apply forceful restraint.
 
+- [[Sutta texts/AN 3.65#Text|AN 3.65 — With the Kālāmas of Kesamutta]] — Examines greed, hate, and delusion through their consequences, and encourages abandoning harmful qualities and cultivating beneficial ones.
+
+
 ## Supporting energy and balance
 
 - [[Sutta texts/SN 46.51#Text|SN 46.51 — Nourishing]] — What feeds or weakens the hindrances and awakening factors.

@@ -35,4 +35,8 @@ Examining form, feeling, perception, choices or volitional formations, and consc
 
 - [[Sutta texts/SN 12.15#^right-view-and-self|SN 12.15 — Kaccānagotta]] — Connects right view and relinquishing fixation on “my self” with understanding the conditional arising and cessation of suffering.
 
+- [[Sutta texts/SN 22.79#^aggregate-functions|SN 22.79 — Bitable]] — Explains what each aggregate does, then uses the image of being bitten to examine attachment to aggregates past, future, and present.
+
+- [[Sutta texts/SN 22.89#^observing-rise-and-fall|SN 22.89 — With Khemaka]] — Distinguishes “I am this” from the lingering conceit “I am”; observing the rise and fall of the five grasping aggregates removes the residue.
+
 [[Suttas|← Sutta collection]]

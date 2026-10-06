@@ -9,7 +9,7 @@ A collection for deepening Buddhist practice, organized around the qualities to 
 - **[Practice guides](Practices/):** fourteen guides explaining what each linked discourse contributes to practice.
 - **[Dependent origination](Practices/Dependent%20origination.md):** the twelve links, arising and cessation, and the conditions supporting freedom.
 - **[Energy — Viriya](Practices/Energy%20%28Viriya%29.md):** working with dullness and sleepiness, choosing awakening factors, and developing balanced effort.
-- **[Source texts](Sutta%20texts/):** 54 discourses in 46 notes. SuttaCentral presents SN 18.12–20 together, so those nine discourses share one note.
+- **[Source texts](Sutta%20texts/):** 58 discourses in 50 notes. SuttaCentral presents SN 18.12–20 together, so those nine discourses share one note.
 
 The teaching page is a draft for developing the collection’s structure. Its short explanations and reflections are editorial notes; quotations and attributed translator’s notes are identified separately.
 

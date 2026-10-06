@@ -11,6 +11,7 @@ pali_title: "Kesamuttisutta"
 contribution: "Assess harmful and beneficial qualities, and cultivate the four brahmavihāras."
 practices:
   - "[[Practices/Mettā and the brahmavihāras|Mettā and the brahmavihāras]]"
+  - "[[Practices/Abandoning unskillful thoughts|Abandoning unskillful thoughts]]"
 ---
 
 # AN 3.65 — With the Kālāmas of Kesamutta
@@ -30,6 +31,8 @@ Translation: **Bhikkhu Sujato** · [SuttaCentral](https://suttacentral.net/an3.6
 ## Practice connections
 
 - [[Practices/Mettā and the brahmavihāras|Mettā and the brahmavihāras]] — Connects the four brahmavihāras with freedom from greed, hatred, and confusion, and describes the assurances of living without enmity and ill will.
+
+- [[Practices/Abandoning unskillful thoughts|Abandoning unskillful thoughts]] — Assesses greed, hate, and delusion by their harmful consequences, and contentment, love, and understanding by their beneficial consequences.
 
 ## Text
 

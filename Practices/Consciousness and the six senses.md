@@ -18,6 +18,10 @@ Examining the knowing of experience itself: how consciousness arises dependent o
 
 - [[Sutta texts/SN 12.2#^twelve-links|SN 12.2 — Analysis]] — Defines consciousness and its place among name and form, the senses, contact, feeling, and the other links of dependent origination.
 
+- [[Sutta texts/Ud 1.10#^merely-the-seen|Ud 1.10 — With Bāhiya]] — The brief training in merely the seen, heard, thought, and known, with Bāhiya’s release through not grasping.
+
+- [[Sutta texts/SN 22.89#^lingering-i-am|SN 22.89 — With Khemaka]] — Examines the lingering sense “I am” when no aggregate is regarded as self, and how observing the aggregates’ rise and fall eradicates it.
+
 
 ## The six kinds of consciousness
 

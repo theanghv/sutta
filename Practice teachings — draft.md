@@ -36,6 +36,8 @@ The short explanations and practice reminders below are working summaries. All l
 - [[Sutta texts/DN 13#^brahmaviharas|DN 13 — Experts in the Three Vedas]] — How to extend each quality in every direction, abundantly and without limit.
 - [[Sutta texts/Snp 1.8#Text|Snp 1.8 — The Discourse on Love]] — Boundless goodwill supported by conduct and carried through daily life.
 
+- [[Sutta texts/AN 3.65#Text|AN 3.65 — With the Kālāmas of Kesamutta]] — Assess harmful and beneficial qualities, then develop the four brahmavihāras and the assurances of a heart without enmity.
+
 Continue through [[Practices/Mettā and the brahmavihāras|Mettā and the brahmavihāras]].
 
 ## The five faculties
@@ -106,6 +108,9 @@ Continue through [[Practices/Abandoning unskillful thoughts|Abandoning unskillfu
 - [[Sutta texts/SN 22.56#Text|SN 22.56 — Rounds of the Grasping Aggregates]] — Definitions, conditions, cessation, and the path.
 - [[Sutta texts/SN 22.1#Text|SN 22.1 — Nakula’s Father]] — How identification with changing aggregates afflicts the mind, and how this affliction is avoided.
 - [[Sutta texts/SN 22.59#Text|SN 22.59 — The Characteristic of Not-Self]] — Examine each aggregate through affliction, impermanence, and its suitability for identification as self.
+
+- [[Sutta texts/SN 22.79#^aggregate-functions|SN 22.79 — Bitable]] — What each aggregate does, and relinquishing attachment to past, future, and present aggregates.
+- [[Sutta texts/SN 22.89#^observing-rise-and-fall|SN 22.89 — With Khemaka]] — The lingering conceit “I am” and its abandonment through observing the aggregates’ rise and fall.
 
 Continue through [[Practices/Contemplation of the aggregates|Contemplation of the aggregates]], [[Practices/Feelings and impermanence|Feelings and impermanence]], and [[Practices/Consciousness and the six senses|Consciousness and the six senses]].
 

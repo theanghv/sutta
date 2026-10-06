@@ -64,7 +64,7 @@ Choose a practice, or use the catalogue to find a discourse by its name or what 
 
 ## Find a sutta
 
-**54 discourses · 46 source notes · Bhikkhu Sujato’s translations from SuttaCentral.** SN 18.12–20 is preserved as one source note, following SuttaCentral.
+**58 discourses · 50 source notes · Bhikkhu Sujato’s translations from SuttaCentral.** SN 18.12–20 is preserved as one source note, following SuttaCentral.
 
 Use the table’s **Search** to find a name, ID, practice, or phrase such as “resentment” or “healthy mind”. Use **Filter → Practices** to narrow the collection to a practice. Switch to **Names** for a compact ID, English, and Pāli comparison.
 
@@ -74,6 +74,9 @@ Use the table’s **Search** to find a name, ID, practice, or phrase such as “
 
 ## Reading routes
 
+- **Understanding the aggregates and the lingering “I am”:** [[Sutta texts/SN 22.56#Text|SN 22.56 — Rounds of the Grasping Aggregates]] → [[Sutta texts/SN 22.79#Text|SN 22.79 — Bitable]] → [[Sutta texts/SN 22.59#Text|SN 22.59 — The Characteristic of Not-Self]] → [[Sutta texts/SN 22.89#Text|SN 22.89 — With Khemaka]].
+- **Sense experience and release:** [[Sutta texts/MN 148#Text|MN 148 — Six By Six]] → [[Sutta texts/Ud 1.10#^merely-the-seen|Ud 1.10 — With Bāhiya]].
+
 - **Dependent origination:** [[Sutta texts/SN 12.2#Text|SN 12.2 — Analysis]] → [[Sutta texts/MN 38#Text|MN 38 — The Longer Discourse on the Ending of Craving]] → [[Sutta texts/SN 12.15#Text|SN 12.15 — Kaccānagotta]] → [[Sutta texts/SN 12.23#Text|SN 12.23 — Vital Conditions]].
 - **Dullness and balanced energy:** [[Sutta texts/SN 46.51#Text|SN 46.51 — Nourishing]] → [[Sutta texts/SN 46.53#Text|SN 46.53 — Fire]] → [[Sutta texts/AN 7.61#Text|AN 7.61 — Nodding Off]] → [[Sutta texts/AN 6.55#Text|AN 6.55 — With Soṇa]].
 
@@ -81,7 +84,7 @@ Use the table’s **Search** to find a name, ID, practice, or phrase such as “
 - **Self, affliction, and mastery:** [[Sutta texts/SN 22.59#Text|SN 22.59 — The Characteristic of Not-Self]] → [[Sutta texts/MN 35#^self-and-mastery|MN 35 — The Shorter Discourse With Saccaka]]. SN 22.59 now includes the relevant notes by Sujato on the meaning of self and the argument’s background.
 - **The one who experiences:** [[Sutta texts/MN 38#^the-one-who-knows|MN 38 — The Longer Discourse on the Ending of Craving]] → [[Sutta texts/SN 35.93#Text|SN 35.93 — A Duality (2nd)]] → [[Sutta texts/MN 148#^consciousness-not-self|MN 148 — Six By Six]] → [[Sutta texts/SN 18.3#Text|SN 18.3 — Consciousness]].
 - **Why impermanence is connected with suffering:** [[Sutta texts/SN 36.11#^impermanence-and-suffering|SN 36.11 — In Private]] → [[Sutta texts/MN 44#^feeling-and-change|MN 44 — The Shorter Elaboration]].
-- **Joy supporting meditation:** [[Sutta texts/AN 11.2#Text|AN 11.2 — Making a Wish]] → [[Sutta texts/MN 118#^breathing-training|MN 118 — Mindfulness of Breathing]].
+- **Joy supporting meditation:** [[Sutta texts/AN 11.2#Text|AN 11.2 — Making a Wish]] → [[Sutta texts/MN 118#^breathing-training|MN 118 — Mindfulness of Breathing]] → [[Sutta texts/MN 111#Text|MN 111 — One by One]].
 - **Working with thinking:** [[Sutta texts/MN 19#Text|MN 19 — Two Kinds of Thought]] → [[Sutta texts/MN 20#Text|MN 20 — How to Stop Thinking]].
 
 ## Still to consider
@@ -99,7 +102,7 @@ Each source note preserves Sujato’s published translation, including its abbre
 Open the **Bookmarks** tab in the left sidebar to switch between these views:
 
 - **Practice overview** — the practice notes and suttas, with the individual SN 18 notes hidden to keep the overview readable. The SN 18 framework note stays visible.
-- **All suttas** — all 46 source notes and 14 practice notes.
+- **All suttas** — all 50 source notes and 14 practice notes.
 - **SN 18 framework** — the SN 18 framework note and its 14 source notes, covering all 22 discourses.
 
 Practice notes are **teal**, SN 18 source notes are **blue**, and other source notes are **gold**. The index and archive are excluded from these views. Short sutta references keep graph labels compact; full titles remain inside each note.
